@@ -1,0 +1,10 @@
+{
+  "internalName": "rocket_rpg_7",
+  "maxStackSize": 5,
+  "displayName": "RPG_7 Rocket",
+  "renderBulletModel": true,
+
+  "projectileVelocity": 4,
+  "explosionStrength": 8.0,
+  "damageWorld": false
+}

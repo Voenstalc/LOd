@@ -1,0 +1,15 @@
+{
+  "displayName": "TGPV",
+  "internalName": "atm_tgpv",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_tgpv",
+      "displayName": "TGPV - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

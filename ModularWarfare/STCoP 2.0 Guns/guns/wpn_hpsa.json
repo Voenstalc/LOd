@@ -1,0 +1,66 @@
+{
+    "displayName": "HPSA",
+    "internalName": "wpn_hpsa",
+    "gunDamage": 9.5,
+    "roundsPerMin": 330,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "customFlashTexture": "atm_flash",
+    "acceptedAmmo": [
+        "mag_hpsa"
+    ],
+    "fireModes": [
+        "semi"
+    ],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.5,
+    "reloadTime": 55,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "dropBulletCasing": true,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "hpsa_shoot",
+                "soundNameDistant": "hpsa_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "hpsa_reload"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "hpsa_shoot_sil",
+                "soundRange": 30,
+                "soundMaxRange": 50,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "atm_9mm.sil"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_hpsa",
+            "skinAsset": "wpn_hpsa",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

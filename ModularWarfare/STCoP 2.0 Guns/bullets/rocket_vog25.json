@@ -1,0 +1,10 @@
+{
+  "internalName": "rocket_vog25",
+  "maxStackSize": 6,
+  "displayName": "VOG25 Rocket",
+  "renderBulletModel": true,
+
+  "projectileVelocity": 4,
+  "explosionStrength": 8.0,
+  "damageWorld": false
+}

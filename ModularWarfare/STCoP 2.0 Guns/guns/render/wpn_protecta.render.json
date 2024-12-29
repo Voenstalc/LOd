@@ -1,0 +1,207 @@
+{
+  "modelFileName": "wpn_protecta.obj",
+  "arms": {
+    "leftHandAmmo": true,
+    "actionArm": "Right",
+    "leftArm": {
+      "armScale": {
+        "x": 0.7,
+        "y": 1.0,
+        "z": 0.7
+      },
+      "armPos": {
+        "x": 0.3,
+        "y": -0.95,
+        "z": 0.0
+      },
+      "armRot": {
+        "x": 65.0,
+        "y": 32.0,
+        "z": -46.0
+      },
+      "armReloadPos": {
+        "x": -0.25,
+        "y": -1.0,
+        "z": 0.0
+      },
+      "armReloadRot": {
+        "x": 35.0,
+        "y": 0.0,
+        "z": -25.0
+      }
+    },
+    "rightArm": {
+      "armScale": {
+        "x": 0.7,
+        "y": 1.0,
+        "z": 0.7
+      },
+      "armPos": {
+        "x": 0.27,
+        "y": -0.75,
+        "z": -0.05
+      },
+      "armRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      },
+      "armReloadPos": {
+        "x": 0.27,
+        "y": -0.75,
+        "z": -0.05
+      },
+      "armReloadRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      },
+      "armChargePos": {
+        "x": 0.55,
+        "y": -0.45,
+        "z": 0.14
+      },
+      "armChargeRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      }
+    }
+  },
+  "sprint": {
+    "sprintRotate": {
+      "x": -15.0,
+      "y": 40.0,
+      "z": -0.0
+    },
+    "sprintTranslate": {
+      "x": 0.75,
+      "y": -0.15,
+      "z": -0.65
+    }
+  },
+  "thirdPerson": {
+    "thirdPersonOffset": {
+      "x": 0.0,
+      "y": -0.1,
+      "z": 0.0
+    },
+    "backPersonOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "thirdPersonScale": 0.8
+  },
+  "aim": {
+    "rotateHipPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "translateHipPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotateAimPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.7
+    },
+    "translateAimPosition": {
+      "x": 0.17,
+      "y": 0.06,
+      "z": -0.058
+    }
+  },
+  "attachments": {
+    "positionPointMap": {
+      "atm_acog": [
+        {
+          "x": 2.3,
+          "y": -0.6,
+          "z": 0.15
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ],
+      "atm_eotech": [
+        {
+          "x": 2.5,
+          "y": -0.6,
+          "z": 0.15
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ]
+    },
+    "aimPointMap": {
+      "atm_acog": [
+        {
+          "x": 2.5,
+          "y": -0.3,
+          "z": -0.05
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -1.7
+        }
+      ],
+      "atm_eotech": [
+        {
+          "x": 3.5,
+          "y": -2.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.7
+        }
+      ]
+    },
+    "attachmentModeRotate": {
+      "x": 10.0,
+      "y": 30.0,
+      "z": 0.0
+    }
+  },
+  "itemFrame": {
+    "translate": {
+      "x": 3.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "extra": {
+    "translateAll": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelScale": 1.2,
+    "reloadAnimation": "shotgun",
+    "needExtraChargeModel": false,
+    "chargeHandleDistance": 0.0,
+    "gunOffsetScoping": 0.0,
+    "crouchZoom": -0.035,
+    "adsSpeed": 0.1,
+    "gunSlideDistance": 0.05,
+    "chargeModifier": {
+      "x": 0.1,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelRecoilBackwards": 0.15,
+    "modelRecoilUpwards": 1.0,
+    "modelRecoilShake": 0.5
+  }
+}

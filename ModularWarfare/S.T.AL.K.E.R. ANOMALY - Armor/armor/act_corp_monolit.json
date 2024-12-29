@@ -1,0 +1,19 @@
+{
+    "internalName": "act_corp_monolit",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_corp_monolit"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_corp_monolit",
+        "displayName": "act_corp_monolit - Default"
+      }
+    ]
+}

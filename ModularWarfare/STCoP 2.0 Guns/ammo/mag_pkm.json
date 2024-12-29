@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_pkm",
+    "displayName": "PKM Mag",
+    "ammoCapacity": 100,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_7.62x54"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

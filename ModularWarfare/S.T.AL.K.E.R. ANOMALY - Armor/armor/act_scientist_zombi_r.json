@@ -1,0 +1,19 @@
+{
+    "internalName": "act_scientist_zombi_r",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_scientist_zombi_r"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_scientist_zombi_r",
+        "displayName": "act_scientist_zombi_r - Default"
+      }
+    ]
+}

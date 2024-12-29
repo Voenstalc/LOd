@@ -1,0 +1,11 @@
+{
+  "displayName": "AG36 UGL",
+  "internalName": "atm_ag36",
+  "attachmentType": "grip",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_ag36",
+      "displayName": "AG36 UGL - Default"
+    }
+  ]
+}

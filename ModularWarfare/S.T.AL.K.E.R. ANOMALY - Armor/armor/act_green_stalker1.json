@@ -1,0 +1,19 @@
+{
+    "internalName": "act_green_stalker1",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_green_stalker1"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_green_stalker1",
+        "displayName": "act_green_stalker1 - Default"
+      }
+    ]
+}

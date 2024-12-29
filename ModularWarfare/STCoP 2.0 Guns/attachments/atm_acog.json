@@ -1,0 +1,16 @@
+{
+  "displayName": "ACOG Scope",
+  "internalName": "atm_acog",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_acog",
+      "displayName": "ACOG Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "4x",
+    "customOverlayTexture": "ovr_acog",
+    "modeType": "pip"
+  }
+}

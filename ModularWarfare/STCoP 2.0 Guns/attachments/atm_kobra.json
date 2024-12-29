@@ -1,0 +1,16 @@
+{
+  "displayName": "Kobra Sight",
+  "internalName": "atm_kobra",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "wpn_addon_scope_kobra",
+      "displayName": "Kobra Sight - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "1x",
+    "customOverlayTexture": "ovr_kobra",
+    "modeType": "normal"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_mp5",
+    "displayName": "MP5 Mag",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_9x19"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

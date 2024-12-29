@@ -1,0 +1,9 @@
+{
+  "modelFileName": "ssp.obj",
+  "extra": {
+    "modelScale": 1.0,
+    "isSuit": true,
+    "hidePlayerModel": false,
+    "hideAllPlayerWearModel": false
+  }
+}

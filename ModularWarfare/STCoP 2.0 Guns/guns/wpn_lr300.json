@@ -1,0 +1,85 @@
+{
+    "internalName": "wpn_lr300",
+    "displayName": "LR300",
+    "weaponType": "carbine",
+    "customFlashTexture":"atm_flash",
+    "gunDamage": 9,
+    "gunDamageHeadshotBonus": 2,
+    "roundsPerMin": 570,
+    "allowEmptyMagazines": true,
+    "reloadTime": 70,
+    "recoilPitch": 5.0,
+    "recoilYaw": 0.6,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 1,
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "fireModes": [
+        "full",
+        "semi",
+        "burst"
+    ],
+    "acceptedAmmo": [
+        "mag_stanag.30"
+    ],
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"m4_shoot",
+                "soundNameDistant":"m4_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"m4_reload"
+            }
+        ],
+        "weaponFireSuppressed":[
+            {
+                "soundEvent":"weaponFireSuppressed",
+                "soundName":"m4_shoot_sil",
+                "soundRange":30,
+                "soundMaxRange":50,
+                "soundFadeMultiplier":1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "atm_eotech",
+            "atm_acog"
+        ],
+        "grip": [
+            "atm_m203"
+        ],
+        "barrel": [
+            "atm_nato.sil"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_lr300",
+            "skinAsset": "wpn_lr300",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_ak74",
+    "displayName": "AK74 Mag",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_5.45x39"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

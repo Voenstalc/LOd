@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_freedom0",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_freedom0"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_freedom0",
+        "displayName": "act_stalker_freedom0 - Default"
+      }
+    ]
+}

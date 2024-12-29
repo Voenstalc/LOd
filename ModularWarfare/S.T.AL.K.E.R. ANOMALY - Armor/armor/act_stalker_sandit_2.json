@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_sandit_2",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_sandit_2"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_sandit_2",
+        "displayName": "act_stalker_sandit_2 - Default"
+      }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "displayName": "Desert Eagle",
+    "internalName": "wpn_d.eagle",
+    "gunDamage": 10,
+    "roundsPerMin": 210,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "customFlashTexture": "atm_flash",
+    "acceptedAmmo": [
+        "mag_d.eagle"
+    ],
+    "fireModes": [
+        "semi"
+    ],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.5,
+    "reloadTime": 60,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "dropBulletCasing": true,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "d.eagle_shoot",
+                "soundNameDistant": "d.eagle_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "d.eagle_reload"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "d.eagle_shoot_sil",
+                "soundRange": 30,
+                "soundMaxRange": 50,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_d.eagle",
+            "skinAsset": "wpn_d.eagle",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

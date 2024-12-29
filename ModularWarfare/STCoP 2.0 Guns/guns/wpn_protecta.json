@@ -1,0 +1,60 @@
+{
+    "internalName": "wpn_protecta",
+    "displayName": "Protecta",
+    "weaponType": "shotgun",
+    "gunDamage": 4,
+    "roundsPerMin": 150,
+    "allowEmptyMagazines": true,
+    "customFlashTexture":"atm_flash",
+    "recoilPitch": 10,
+    "recoilYaw": 2.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 4,
+    "numBullets": 4,
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "fireModes": [
+        "semi"
+    ],
+    "acceptedBullets": ["bul_12x70"],
+    "internalAmmoStorage": 12,
+    "reloadTime": 140,
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "protecta_shoot",
+                "soundNameDistant": "protecta_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponBulletLoad": [
+            {
+                "soundEvent": "weaponBulletLoad",
+                "soundName": "protecta_reload"
+            }
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_protecta",
+            "skinAsset": "wpn_protecta",
+            "displayName": "Default"
+        }
+    ]
+}

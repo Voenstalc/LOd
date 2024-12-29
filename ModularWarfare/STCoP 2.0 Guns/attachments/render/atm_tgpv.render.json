@@ -1,0 +1,9 @@
+{
+  "modelFileName": "atm_tgpv.obj",
+  "extra": {
+    "modelScale": 1.0
+  },
+  "barrel": {
+    "hideMuzzleFlash": true
+  }
+}

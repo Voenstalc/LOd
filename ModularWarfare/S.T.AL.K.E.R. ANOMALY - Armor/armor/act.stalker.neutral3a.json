@@ -1,0 +1,19 @@
+{
+    "internalName": "act.stalker.neutral3a",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act.stalker.neutral3a"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act.stalker.neutral3a",
+        "displayName": "act.stalker.neutral3a - Default"
+      }
+    ]
+}

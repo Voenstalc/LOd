@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_walther99",
+    "displayName": "Walther99 Mag",
+    "ammoCapacity": 15,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_9x19"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

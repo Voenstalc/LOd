@@ -1,0 +1,52 @@
+{
+    "displayName": "PB",
+    "internalName": "wpn_pb",
+    "gunDamage": 5.8,
+    "roundsPerMin": 300,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "customFlashTexture": "atm_flash",
+    "acceptedAmmo": [
+        "mag_pm"
+    ],
+    "fireModes": [
+        "semi"
+    ],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.5,
+    "reloadTime": 65,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "dropBulletCasing": true,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "pm_shoot_sil",
+                "soundNameDistant": "pm_shoot_sil",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "pm_reload"
+            }
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_pb",
+            "skinAsset": "wpn_pb",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

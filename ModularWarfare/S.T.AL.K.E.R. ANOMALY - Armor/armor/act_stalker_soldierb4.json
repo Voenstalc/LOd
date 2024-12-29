@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_soldierb4",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_soldierb4"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_soldierb4",
+        "displayName": "act_stalker_soldierb4 - Default"
+      }
+    ]
+}

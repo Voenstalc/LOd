@@ -1,0 +1,15 @@
+{
+  "displayName": ".45 Sil",
+  "internalName": "atm_.45.sil",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_.45.sil",
+      "displayName": ".45 Sil - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

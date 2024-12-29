@@ -1,0 +1,15 @@
+{
+  "displayName": "NATO Sil",
+  "internalName": "atm_nato.sil",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_nato.sil",
+      "displayName": "NATO Sil - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

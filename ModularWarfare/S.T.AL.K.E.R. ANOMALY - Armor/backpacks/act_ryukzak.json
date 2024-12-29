@@ -1,0 +1,9 @@
+{
+  "displayName": "act_ryukzak",
+  "internalName": "act_ryukzak",
+  "skinName": "act_ryukzak",
+  "size": 16,
+
+  "allowSmallerBackpackStorage": false,
+  "maxWeaponStorage": 5
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_fpecnaz",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_fpecnaz"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_fpecnaz",
+        "displayName": "act_stalker_fpecnaz - Default"
+      }
+    ]
+}

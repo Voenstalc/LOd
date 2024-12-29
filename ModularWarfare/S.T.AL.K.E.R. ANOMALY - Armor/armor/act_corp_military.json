@@ -1,0 +1,19 @@
+{
+    "internalName": "act_corp_military",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_corp_military"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_corp_military",
+        "displayName": "act_corp_military - Default"
+      }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_dolgexo4b",
+    "defense": "0.15",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_dolgexo4b"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_dolgexo4b",
+        "displayName": "act_stalker_dolgexo4b - Default"
+      }
+    ]
+}

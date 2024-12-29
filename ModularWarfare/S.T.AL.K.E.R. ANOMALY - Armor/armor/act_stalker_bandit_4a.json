@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_bandit_4a",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_bandit_4a"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_bandit_4a",
+        "displayName": "act_stalker_bandit_4a - Default"
+      }
+    ]
+}

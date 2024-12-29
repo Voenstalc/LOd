@@ -1,0 +1,81 @@
+{
+    "internalName":"wpn_ah94",
+    "displayName":"AN94 Abakan",
+    "weaponType":"carbine",
+    "customFlashTexture":"atm_flash",
+    "gunDamage":7.4,
+    "gunDamageHeadshotBonus":2,
+    "roundsPerMin":530,
+    "allowEmptyMagazines":true,
+    "reloadTime": 70,
+    "recoilPitch": 5.5,
+    "recoilYaw":0.75,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.7,
+    "bulletSpread":1.0,
+    "accuracySneakFactor":0.5,
+    "moveSpeedModifier":1.0,
+    "allowSprintFiring":true,
+    "fireModes":[
+        "full",
+        "semi"
+    ],
+    "acceptedAmmo":[
+        "mag_ah94"
+    ],
+    "dropBulletCasing":true,
+    "shellEjectOffsetNormal":{
+        "x":-1.0,
+        "y":0.0,
+        "z":1.0
+    },
+    "shellEjectOffsetAiming":{
+        "x":-0.2,
+        "y":0.12,
+        "z":0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"ah94_shoot",
+                "soundNameDistant":"ah94_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"ah94_reload"
+            }
+        ],
+        "weaponFireSuppressed":[
+            {
+                "soundEvent":"weaponFireSuppressed",
+                "soundName":"ak_shoot_sil",
+                "soundRange":30,
+                "soundMaxRange":50,
+                "soundFadeMultiplier":1
+            }
+        ]
+    },
+    "acceptedAttachments":{
+        "sight": [
+            "atm_kobra",
+            "atm_pso1"
+        ],
+        "grip": [
+            "atm_gp25"
+        ]
+    },
+    "modelSkins":[
+        {
+            "internalName":"wpn_ah94",
+            "skinAsset":"wpn_ah94",
+            "displayName":"Default",
+            "textures": ["basic"]
+        }
+    ]
+}

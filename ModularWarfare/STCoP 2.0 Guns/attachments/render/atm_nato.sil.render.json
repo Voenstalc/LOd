@@ -1,0 +1,9 @@
+{
+  "modelFileName": "atm_nato.sil.obj",
+  "extra": {
+    "modelScale": 1.0
+  },
+  "barrel": {
+    "hideMuzzleFlash": true
+  }
+}

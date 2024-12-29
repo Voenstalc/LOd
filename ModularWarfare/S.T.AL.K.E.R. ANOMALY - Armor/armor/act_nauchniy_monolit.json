@@ -1,0 +1,19 @@
+{
+    "internalName": "act_nauchniy_monolit",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_nauchniy_monolit"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_nauchniy_monolit",
+        "displayName": "act_nauchniy_monolit - Default"
+      }
+    ]
+}

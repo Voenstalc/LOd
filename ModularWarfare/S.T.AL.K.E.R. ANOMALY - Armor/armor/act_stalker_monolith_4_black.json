@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_monolith_4_black",
+    "defense": "0.15",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_monolith_4_black"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_monolith_4_black",
+        "displayName": "act_stalker_monolith_4_black - Default"
+      }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "modelFileName": "atm_po4x34.obj",
+  "extra": {
+    "modelScale": 1.0
+  },
+  "sight": {
+    "fovZoom": 4.0,
+    "mouseSensitivityFactor": 0.2,
+    "rectileScale": 3.5
+  }
+}

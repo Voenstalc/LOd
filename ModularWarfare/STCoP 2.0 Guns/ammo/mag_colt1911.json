@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_colt1911",
+    "displayName": "Colt1911 Mag",
+    "ammoCapacity": 7,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_.45"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

@@ -1,0 +1,75 @@
+{
+    "internalName": "wpn_rpg_7",
+    "displayName": "RPG7",
+    "customFlashTexture":"atm_flash",
+    "weaponType": "launcher",
+    "numBullets": 1,
+    "internalAmmoStorage": 1,
+    "fireModes": [
+        "semi"
+    ],
+    "acceptedBullets": [
+        "rocket_rpg_7"
+    ],
+    "dropBulletCasing": false,
+
+    "roundsPerMin": 575,
+    "allowEmptyMagazines": true,
+    "recoilPitch": 5,
+    "recoilYaw": 5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 4,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+	
+    "accuracySneakFactor": 0.8,
+	"accuracyCrawlFactor": 0.6,
+	"accuracyAimFactor": 0.1,
+	
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+
+
+
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "rpg7_explode",
+                "soundNameDistant": "rpg7_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "rpg7_reload"
+            }
+        ]
+    },
+	"acceptedAttachments":{
+        "charm":[
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_rpg_7",
+            "skinAsset": "wpn_rpg_7",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

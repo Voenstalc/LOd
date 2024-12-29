@@ -1,0 +1,19 @@
+{
+    "internalName": "exo",
+    "defense": "0.1",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "legs": 
+        {
+            "displayName": "exo"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "exo",
+        "displayName": "exo - Default"
+      }
+    ]
+}

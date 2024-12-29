@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_groza",
+    "displayName": "OC14 Groza Mag",
+    "ammoCapacity": 20,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_9x39"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

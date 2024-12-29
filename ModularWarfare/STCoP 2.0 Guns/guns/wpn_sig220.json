@@ -1,0 +1,66 @@
+{
+    "displayName": "Sig220",
+    "internalName": "wpn_sig220",
+    "gunDamage": 8,
+    "roundsPerMin": 320,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "customFlashTexture": "atm_flash",
+    "acceptedAmmo": [
+        "mag_sig220"
+    ],
+    "fireModes": [
+        "semi"
+    ],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.5,
+    "reloadTime": 60,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "dropBulletCasing": true,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "sig220_shoot",
+                "soundNameDistant": "sig220_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "sig220_reload"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "sig220_shoot_sil",
+                "soundRange": 30,
+                "soundMaxRange": 50,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "atm_.45.sil"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_sig220",
+            "skinAsset": "wpn_sig220",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "internalName": "wpn_svd",
+    "durability": 9000,
+    "displayName": "SVD-Dragunov",
+    "weaponType": "semisniper",
+    "gunDamage": 18,
+    "gunDamageHeadshotBonus":10,
+    "customFlashTexture":"atm_flash",
+    "moveSpeedModifier": 1,
+    "roundsPerMin": 70,
+    "gunDamageHeadshotBonus": 2,
+    "fireModes": [
+        "semi"
+    ],
+    "accuracySneakFactor": 0.3,
+    "allowEmptyMagazines":true,
+    "reloadTime": 100,
+    "allowSprintFiring": false,
+    "recoilPitch": 1.5,
+    "recoilYaw": 0.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_svd",
+            "skinAsset": "wpn_svd",
+            "displayName": "Default"
+        }
+    ],
+    "acceptedAmmo": [
+        "mag_svd"
+    ],
+    "acceptedAttachments": {
+        "sight": [
+            "atm_kobra",
+            "atm_pso1"
+        ],
+        "barrel": [
+            "atm_tgpv"
+        ]
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "svd_shoot",
+                "soundNameDistant": "svd_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "svd_reload"
+            }
+        ],
+        "weaponFireSuppressed":[
+            {
+                "soundEvent":"weaponFireSuppressed",
+                "soundName":"svd_shoot_sil",
+                "soundRange":30,
+                "soundMaxRange":50,
+                "soundFadeMultiplier":1
+            }
+        ]
+    }
+}

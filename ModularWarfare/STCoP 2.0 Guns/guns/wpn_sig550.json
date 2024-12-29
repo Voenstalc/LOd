@@ -1,0 +1,85 @@
+{
+    "internalName": "wpn_sig550",
+    "displayName": "SIG SG550",
+    "weaponType": "carbine",
+    "customFlashTexture":"atm_flash",
+    "gunDamage": 9.5,
+    "gunDamageHeadshotBonus": 2,
+    "roundsPerMin": 430,
+    "allowEmptyMagazines": true,
+    "reloadTime": 60,
+    "recoilPitch": 5.0,
+    "recoilYaw": 0.6,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 1,
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "fireModes": [
+        "full",
+        "semi",
+        "burst"
+    ],
+    "acceptedAmmo": [
+        "mag_sig.30"
+    ],
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"sig550_shoot",
+                "soundNameDistant":"sig550_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"sig550_reload"
+            }
+        ],
+        "weaponFireSuppressed":[
+            {
+                "soundEvent":"weaponFireSuppressed",
+                "soundName":"sig550_shoot_sil",
+                "soundRange":30,
+                "soundMaxRange":50,
+                "soundFadeMultiplier":1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "atm_eotech",
+            "atm_acog"
+        ],
+        "grip": [
+            "atm_m203"
+        ],
+        "barrel": [
+            "atm_nato.sil"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_sig550",
+            "skinAsset": "wpn_sig550",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

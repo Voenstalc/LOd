@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_g36",
+    "displayName": "G36 Mag",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_5.56x45"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

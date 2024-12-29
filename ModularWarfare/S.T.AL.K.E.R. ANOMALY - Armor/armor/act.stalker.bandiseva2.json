@@ -1,0 +1,19 @@
+{
+    "internalName": "act.stalker.bandiseva2",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act.stalker.bandiseva2"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act.stalker.bandiseva2",
+        "displayName": "act.stalker.bandiseva2 - Default"
+      }
+    ]
+}

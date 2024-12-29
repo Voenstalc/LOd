@@ -1,0 +1,81 @@
+{
+    "internalName":"wpn_ak74u",
+    "displayName":"AKS74u",
+    "weaponType":"carbine",
+    "customFlashTexture":"atm_flash",
+    "gunDamage":6.5,
+    "gunDamageHeadshotBonus":2,
+    "roundsPerMin":520,
+    "allowEmptyMagazines":true,
+    "recoilPitch": 5.5,
+    "recoilYaw":0.75,
+    "reloadTime": 70,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.7,
+    "bulletSpread":1.0,
+    "accuracySneakFactor":0.5,
+    "moveSpeedModifier":1.0,
+    "allowSprintFiring":true,
+    "fireModes":[
+        "full",
+        "semi"
+    ],
+    "acceptedAmmo":[
+        "mag_ak74"
+    ],
+    "dropBulletCasing":true,
+    "shellEjectOffsetNormal":{
+        "x":-1.0,
+        "y":0.0,
+        "z":1.0
+    },
+    "shellEjectOffsetAiming":{
+        "x":-0.2,
+        "y":0.12,
+        "z":0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"ak_shoot",
+                "soundNameDistant":"ak_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"ak_reload"
+            }
+        ],
+        "weaponFireSuppressed":[
+            {
+                "soundEvent":"weaponFireSuppressed",
+                "soundName":"ak_shoot_sil",
+                "soundRange":30,
+                "soundMaxRange":50,
+                "soundFadeMultiplier":1
+            }
+        ]
+    },
+    "acceptedAttachments":{
+        "sight": [
+            "atm_kobra",
+            "atm_pso1"
+        ],
+        "barrel": [
+            "atm_pbs1"
+        ]
+    },
+    "modelSkins":[
+        {
+            "internalName":"wpn_ak74u",
+            "skinAsset":"wpn_ak74u",
+            "displayName":"Default",
+            "textures": ["basic"]
+        }
+    ]
+}

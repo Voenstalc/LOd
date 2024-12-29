@@ -1,0 +1,69 @@
+{
+    "internalName": "wpn_groza",
+    "displayName": "OC14 Groza",
+    "weaponType": "carbine",
+    "customFlashTexture":"atm_flash",
+    "gunDamage": 11,
+    "gunDamageHeadshotBonus": 2,
+    "roundsPerMin": 580,
+    "allowEmptyMagazines": true,
+    "reloadTime": 80,
+    "recoilPitch": 5.0,
+    "recoilYaw": 0.6,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 1,
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "fireModes": [
+        "full",
+        "semi",
+        "burst"
+    ],
+    "acceptedAmmo": [
+        "mag_groza"
+    ],
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"groza_shoot",
+                "soundNameDistant":"groza_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"groza_reload"
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "atm_po4x34"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_groza",
+            "skinAsset": "wpn_groza",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

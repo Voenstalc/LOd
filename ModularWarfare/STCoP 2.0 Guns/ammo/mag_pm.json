@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_pm",
+    "displayName": "PM Mag",
+    "ammoCapacity": 8,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_9x18"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

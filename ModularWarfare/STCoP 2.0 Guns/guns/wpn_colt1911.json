@@ -1,0 +1,66 @@
+{
+    "displayName": "Colt1911",
+    "internalName": "wpn_colt1911",
+    "gunDamage": 7,
+    "roundsPerMin": 300,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "customFlashTexture": "atm_flash",
+    "acceptedAmmo": [
+        "mag_colt1911"
+    ],
+    "fireModes": [
+        "semi"
+    ],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.5,
+    "reloadTime": 63,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "dropBulletCasing": true,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "colt1911_shoot",
+                "soundNameDistant": "colt1911_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "colt1911_reload"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "colt1911_shoot_sil",
+                "soundRange": 30,
+                "soundMaxRange": 50,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "atm_.45.sil"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_colt1911",
+            "skinAsset": "wpn_colt1911",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

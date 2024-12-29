@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_greh_0e",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_greh_0e"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_greh_0e",
+        "displayName": "act_stalker_greh_0e - Default"
+      }
+    ]
+}

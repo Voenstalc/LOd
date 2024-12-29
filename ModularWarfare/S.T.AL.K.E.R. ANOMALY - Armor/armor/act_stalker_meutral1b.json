@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_meutral1b",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_meutral1b"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_meutral1b",
+        "displayName": "act_stalker_meutral1b - Default"
+      }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_bandit_exo",
+    "defense": "0.15",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_bandit_exo"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_bandit_exo",
+        "displayName": "act_stalker_bandit_exo - Default"
+      }
+    ]
+}

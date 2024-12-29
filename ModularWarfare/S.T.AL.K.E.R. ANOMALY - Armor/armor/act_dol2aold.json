@@ -1,0 +1,19 @@
+{
+    "internalName": "act_dol2aold",
+    "defense": "0.08",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_dol2aold"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_dol2aold",
+        "displayName": "act_dol2aold - Default"
+      }
+    ]
+}

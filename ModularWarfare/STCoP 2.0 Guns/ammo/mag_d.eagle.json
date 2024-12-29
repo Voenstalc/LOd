@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_d.eagle",
+    "displayName": "Desert Eagle Mag",
+    "ammoCapacity": 9,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_.357"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

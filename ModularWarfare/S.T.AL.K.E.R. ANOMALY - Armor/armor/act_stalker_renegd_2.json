@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_renegd_2",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_renegd_2"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_renegd_2",
+        "displayName": "act_stalker_renegd_2 - Default"
+      }
+    ]
+}

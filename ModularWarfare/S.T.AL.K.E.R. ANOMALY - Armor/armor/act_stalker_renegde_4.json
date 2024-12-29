@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_renegde_4",
+    "defense": "0.15",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_renegde_4"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_renegde_4",
+        "displayName": "act_stalker_renegde_4 - Default"
+      }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "displayName": "act_osoznanie_ryukzak",
+  "internalName": "act_osoznanie_ryukzak",
+  "skinName": "act_osoznanie_ryukzak",
+  "size": 16,
+
+  "allowSmallerBackpackStorage": false,
+  "maxWeaponStorage": 5
+}

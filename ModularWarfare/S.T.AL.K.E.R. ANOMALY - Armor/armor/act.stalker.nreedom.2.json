@@ -1,0 +1,19 @@
+{
+    "internalName": "act.stalker.nreedom.2",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act.stalker.nreedom..2"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act.stalker.nreedom.2",
+        "displayName": "act.stalker.nreedom.2 - Default"
+      }
+    ]
+}

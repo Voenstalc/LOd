@@ -1,0 +1,19 @@
+{
+    "internalName": "act_dark_dolg",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_dark_dolg"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_dark_dolg",
+        "displayName": "act_dark_dolg - Default"
+      }
+    ]
+}

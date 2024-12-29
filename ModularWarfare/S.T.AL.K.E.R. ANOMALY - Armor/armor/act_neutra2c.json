@@ -1,0 +1,19 @@
+{
+    "internalName": "act_neutra2c",
+    "defense": "0.08",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_neutra2c"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_neutra2c",
+        "displayName": "act_neutra2c - Default"
+      }
+    ]
+}

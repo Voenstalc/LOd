@@ -1,0 +1,11 @@
+{
+  "modelFileName": "atm_kobra.obj",
+  "extra": {
+    "modelScale": 1.0
+  },
+  "sight": {
+    "fovZoom": 1.0,
+    "mouseSensitivityFactor": 0.2,
+    "rectileScale": 2.0
+  }
+}

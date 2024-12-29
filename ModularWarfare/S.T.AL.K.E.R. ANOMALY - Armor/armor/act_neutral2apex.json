@@ -1,0 +1,19 @@
+{
+    "internalName": "act_neutral2apex",
+    "defense": "0.08",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_neutral2apex"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_neutral2apex",
+        "displayName": "act_neutral2apex - Default"
+      }
+    ]
+}

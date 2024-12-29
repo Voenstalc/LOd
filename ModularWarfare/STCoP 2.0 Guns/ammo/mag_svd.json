@@ -1,0 +1,13 @@
+{
+    "internalName": "mag_svd",
+    "displayName": "SVD Mag",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "bul_7.62x54"
+    ],
+    "isDynamicAmmo": true,
+    "sameTextureAsGun": false,
+    "reloadTimeFactor": 0.7,
+    "allowEmptyMagazines": true
+}

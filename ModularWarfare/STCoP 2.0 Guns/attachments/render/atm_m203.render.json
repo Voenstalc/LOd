@@ -1,0 +1,13 @@
+{
+  "modelFileName": "atm_m203.obj",
+  "extra": {
+    "modelScale": 1.0
+  },
+  "grip": {
+    "leftArmOffset": {
+      "x": 0.03,
+      "y": -0.055,
+      "z": 0.0
+    }
+  }
+}

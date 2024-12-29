@@ -1,0 +1,416 @@
+{
+  "ak_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak/shoot"
+    ]
+  },
+  "ak_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak/reload"
+    ]
+  },
+  "ak_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak/shoot_sil"
+    ]
+  },
+  "ah94_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ah94/shoot"
+    ]
+  },
+  "toz_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:toz/reload"
+    ]
+  },
+  "toz_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:toz/shoot"
+    ]
+  },
+  "ah94_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ah94/reload"
+    ]
+  },
+  "m4_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m4/shoot"
+    ]
+  },
+  "m4_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m4/reload"
+    ]
+  },
+  "m4_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m4/shoot_sil"
+    ]
+  },
+  "vss_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:vss/shoot"
+    ]
+  },
+  "vss_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:vss/reload"
+    ]
+  },
+  "g36_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:g36/shoot_sil"
+    ]
+  },
+  "g36_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:g36/shoot"
+    ]
+  },
+  "fn2000_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:fn2000/shoot_sil"
+    ]
+  },
+  "fn2000_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:fn2000/shoot"
+    ]
+  },
+  "svd_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/shoot_sil"
+    ]
+  },
+  "svd_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/shoot"
+    ]
+  },
+  "svd_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/reload"
+    ]
+  },
+  "svu_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svu/shoot"
+    ]
+  },
+  "l85_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:l85/shoot_sil"
+    ]
+  },
+  "l85_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:l85/shoot"
+    ]
+  },
+  "gauss_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:gauss/shoot"
+    ]
+  },
+  "gauss_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:gauss/reload"
+    ]
+  },
+  "m590a1_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m590a1/shoot"
+    ]
+  },
+  "m590a1_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m590a1/reload"
+    ]
+  },
+  "mp5_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5/shoot_sil"
+    ]
+  },
+  "mp5_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5/shoot"
+    ]
+  },
+  "mp5_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5/reload"
+    ]
+  },
+  "pkm_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pkm/shoot"
+    ]
+  },
+  "pkm_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pkm/reload"
+    ]
+  },
+  "protecta_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pkm/shoot"
+    ]
+  },
+  "protecta_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:protecta/reload"
+    ]
+  },
+  "sig550_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig550/shoot_sil"
+    ]
+  },
+  "sig550_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig550/shoot"
+    ]
+  },
+  "sig550_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig550/reload"
+    ]
+  },
+  "spas12_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:spas12/shoot"
+    ]
+  },
+  "spas12_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:spas12/reload"
+    ]
+  },
+  "groza_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:groza/shoot"
+    ]
+  },
+  "groza_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:groza/reload"
+    ]
+  },
+  "rpg7_explode": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rpg7/explode"
+    ]
+  },
+  "rpg7_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rpg7/shoot"
+    ]
+  },
+  "rpg7_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rpg7/reload"
+    ]
+  },
+  "rg6_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rg6/shoot"
+    ]
+  },
+  "rg6_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rg6/reload"
+    ]
+  },
+  "walther99_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:walther99/shoot_sil"
+    ]
+  },
+  "walther99_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:walther99/shoot"
+    ]
+  },
+  "walther99_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:walther99/reload"
+    ]
+  },
+  "beretta92fs_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:beretta92fs/shoot_sil"
+    ]
+  },
+  "beretta92fs_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:beretta92fs/shoot"
+    ]
+  },
+  "beretta92fs_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:beretta92fs/reload"
+    ]
+  },
+  "d.eagle_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:d.eagle/shoot_sil"
+    ]
+  },
+  "d.eagle_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:d.eagle/shoot"
+    ]
+  },
+  "d.eagle_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:d.eagle/reload"
+    ]
+  },
+  "fort12_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:fort12/shoot_sil"
+    ]
+  },
+  "fort12_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:fort12/shoot"
+    ]
+  },
+  "fort12_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:fort12/reload"
+    ]
+  },
+  "hpsa_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hpsa/shoot_sil"
+    ]
+  },
+  "hpsa_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hpsa/shoot"
+    ]
+  },
+  "hpsa_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hpsa/reload"
+    ]
+  },
+  "pm_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pm/shoot_sil"
+    ]
+  },
+  "pm_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pm/shoot"
+    ]
+  },
+  "pm_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pm/reload"
+    ]
+  },
+  "sig220_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig220/shoot_sil"
+    ]
+  },
+  "sig220_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig220/shoot"
+    ]
+  },
+  "sig220_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig220/reload"
+    ]
+  },
+  "usp45_shoot_sil": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:usp45/shoot_sil"
+    ]
+  },
+  "usp45_shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:usp45/shoot"
+    ]
+  },
+  "usp45_reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:usp45/reload"
+    ]
+  }
+}

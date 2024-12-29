@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_dolg_3",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_dolg_3"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_dolg_3",
+        "displayName": "act_stalker_dolg_3 - Default"
+      }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "displayName": "Walther99",
+    "internalName": "wpn_walther99",
+    "gunDamage": 9.2,
+    "roundsPerMin": 350,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "customFlashTexture": "atm_flash",
+    "acceptedAmmo": [
+        "mag_walther99"
+    ],
+    "fireModes": [
+        "semi"
+    ],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.5,
+    "reloadTime": 70,
+    "armPose": "ITEM",
+    "armPoseAiming": "BOW_AND_ARROW",
+    "accuracySneakFactor": 0.75,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "dropBulletCasing": true,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "walther99_shoot",
+                "soundNameDistant": "walther99_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "walther99_reload"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "walther99_shoot_sil",
+                "soundRange": 30,
+                "soundMaxRange": 50,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "atm_9mm.sil"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_walther99",
+            "skinAsset": "wpn_walther99",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

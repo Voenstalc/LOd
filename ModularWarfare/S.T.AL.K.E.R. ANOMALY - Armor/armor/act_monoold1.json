@@ -1,0 +1,19 @@
+{
+    "internalName": "act_monoold1",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_monoold1"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_monoold1",
+        "displayName": "act_monoold1 - Default"
+      }
+    ]
+}

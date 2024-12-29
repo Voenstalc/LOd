@@ -1,0 +1,19 @@
+{
+    "internalName": "act_dark_stalker8",
+    "defense": "0.06",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_dark_stalker8"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_dark_stalker8",
+        "displayName": "act_dark_stalker8 - Default"
+      }
+    ]
+}

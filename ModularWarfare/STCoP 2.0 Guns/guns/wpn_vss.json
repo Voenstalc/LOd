@@ -1,0 +1,70 @@
+{
+    "internalName":"wpn_vss",
+    "displayName":"VSS Vintorez",
+    "weaponType":"carbine",
+    "gunDamage":12,
+    "customFlashTexture":"atm_flash",
+    "gunDamageHeadshotBonus":2,
+    "roundsPerMin":600,
+    "allowEmptyMagazines":true,
+    "recoilPitch": 5.5,
+    "recoilYaw":0.75,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.7,
+    "bulletSpread":1.0,
+    "accuracySneakFactor":0.5,
+    "moveSpeedModifier":1.0,
+    "allowSprintFiring":true,
+    "reloadTime": 65,
+    "fireModes":[
+        "full",
+        "semi"
+    ],
+    "acceptedAmmo":[
+        "mag_asval",
+        "mag_vss"
+    ],
+    "dropBulletCasing":true,
+    "shellEjectOffsetNormal":{
+        "x":-1.0,
+        "y":0.0,
+        "z":1.0
+    },
+    "shellEjectOffsetAiming":{
+        "x":-0.2,
+        "y":0.12,
+        "z":0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"vss_shoot",
+                "soundNameDistant":"vss_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"vss_reload"
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "atm_kobra",
+            "atm_pso1"
+        ]
+    },
+    "modelSkins":[
+        {
+            "internalName":"wpn_vss",
+            "skinAsset":"wpn_vss",
+            "displayName":"Default",
+            "textures": ["basic"]
+        }
+    ]
+}

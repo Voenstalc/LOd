@@ -1,0 +1,16 @@
+{
+  "displayName": "PSO1 Scope",
+  "internalName": "atm_pso1",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "wpn_addon_scope_pso1",
+      "displayName": "PSO1 Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "2x",
+    "customOverlayTexture": "ovr_pso1",
+    "modeType": "pip"
+  }
+}

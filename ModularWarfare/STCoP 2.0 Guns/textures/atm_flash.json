@@ -1,0 +1,12 @@
+{
+  "internalName": "atm_flash",
+  "textureType": "flash",
+  "imageLocation":
+  [
+    "atm_flash1.png",
+    "atm_flash2.png",
+    "atm_flash3.png",
+    "atm_flash4.png",
+    "atm_flash5.png"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "act.killer.nauchniy",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act.killer.nauchniy"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act.killer.nauchniy",
+        "displayName": "act.killer.nauchniy - Default"
+      }
+    ]
+}

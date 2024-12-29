@@ -1,0 +1,66 @@
+{
+    "internalName":"wpn_gauss",
+    "displayName":"Gauss",
+    "weaponType":"carbine",
+    "customFlashTexture":"atm_flash",
+    "gunDamage":100,
+    "gunDamageHeadshotBonus":2,
+    "roundsPerMin":30,
+    "allowEmptyMagazines":true,
+    "reloadTime": 100,
+    "recoilPitch":0.0,
+    "recoilYaw":0.0,
+    "randomRecoilPitch":0.0,
+    "randomRecoilYaw":0.0,
+    "bulletSpread":1.0,
+    "accuracySneakFactor":0.5,
+    "moveSpeedModifier":1.0,
+    "allowSprintFiring":true,
+    "fireModes":[
+        "semi"
+    ],
+    "acceptedAmmo":[
+        "mag_gauss"
+    ],
+    "dropBulletCasing":false,
+    "shellEjectOffsetNormal":{
+        "x":-1.0,
+        "y":0.0,
+        "z":1.0
+    },
+    "shellEjectOffsetAiming":{
+        "x":-0.2,
+        "y":0.12,
+        "z":0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"gauss_shoot",
+                "soundRange":64,
+                "soundMaxRange":96,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"gauss_reload"
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "atm_eotech",
+            "atm_acog"
+        ]
+    },
+    "modelSkins":[
+        {
+            "internalName":"wpn_gauss",
+            "skinAsset":"wpn_gauss",
+            "displayName":"Default"
+        }
+    ]
+}

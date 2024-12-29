@@ -1,0 +1,19 @@
+{
+    "internalName": "act_bandit2a",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_bandit2a"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_bandit2a",
+        "displayName": "act_bandit2a - Default"
+      }
+    ]
+}

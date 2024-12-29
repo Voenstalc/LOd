@@ -1,0 +1,11 @@
+{
+  "displayName": "GP25 UGL",
+  "internalName": "atm_gp25",
+  "attachmentType": "grip",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_gp25",
+      "displayName": "GP25 UGL - Default"
+    }
+  ]
+}

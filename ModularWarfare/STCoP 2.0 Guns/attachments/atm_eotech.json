@@ -1,0 +1,16 @@
+{
+  "displayName": "EOTech Sight",
+  "internalName": "atm_eotech",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_eotech",
+      "displayName": "EOTech Sight - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "1x",
+    "customOverlayTexture": "ovr_eotech",
+    "modeType": "normal"
+  }
+}

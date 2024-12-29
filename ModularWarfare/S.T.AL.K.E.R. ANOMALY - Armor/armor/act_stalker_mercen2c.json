@@ -1,0 +1,19 @@
+{
+    "internalName": "act_stalker_mercen2c",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act_stalker_mercen2c"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act_stalker_mercen2c",
+        "displayName": "act_stalker_mercen2c - Default"
+      }
+    ]
+}

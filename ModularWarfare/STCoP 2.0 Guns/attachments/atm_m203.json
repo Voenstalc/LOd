@@ -1,0 +1,11 @@
+{
+  "displayName": "M203 UGL",
+  "internalName": "atm_m203",
+  "attachmentType": "grip",
+  "modelSkins": [
+    {
+      "skinAsset": "wpn_m203",
+      "displayName": "M203 UGL - Default"
+    }
+  ]
+}

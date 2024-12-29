@@ -1,0 +1,68 @@
+{
+    "internalName": "wpn_svu",
+    "durability": 9000,
+    "displayName": "SVU",
+    "weaponType": "semisniper",
+    "gunDamage": 16.5,
+    "gunDamageHeadshotBonus":10,
+    "customFlashTexture":"atm_flash",
+    "moveSpeedModifier": 1,
+    "roundsPerMin": 200,
+    "reloadTime": 75,
+    "gunDamageHeadshotBonus": 2,
+    "fireModes": [
+        "semi"
+    ],
+    "accuracySneakFactor": 0.3,
+    "allowEmptyMagazines": true,
+    "allowSprintFiring": true,
+    "recoilPitch": 1.5,
+    "recoilYaw": 0.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_svu",
+            "skinAsset": "wpn_svu",
+            "displayName": "Default"
+        }
+    ],
+    "acceptedAmmo": [
+        "mag_svd.blp"
+    ],
+    "acceptedAttachments": {
+        "sight": [
+            "atm_kobra",
+            "atm_pso1"
+        ]
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "svu_shoot",
+                "soundNameDistant": "svu_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "svd_reload"
+            }
+        ]
+    }
+}

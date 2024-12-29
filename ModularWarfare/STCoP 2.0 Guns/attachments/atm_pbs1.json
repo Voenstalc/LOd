@@ -1,0 +1,15 @@
+{
+  "displayName": "PBS-1",
+  "internalName": "atm_pbs1",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_pbs1",
+      "displayName": "PBS-1 - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

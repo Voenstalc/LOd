@@ -1,0 +1,19 @@
+{
+    "internalName": "act.stalker.neboseva3",
+    "defense": "0.1",
+    "durability": 2000,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "act.stalker.neboseva3"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "act.stalker.neboseva3",
+        "displayName": "act.stalker.neboseva3 - Default"
+      }
+    ]
+}

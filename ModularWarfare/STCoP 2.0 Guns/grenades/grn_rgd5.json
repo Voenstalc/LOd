@@ -1,0 +1,10 @@
+{
+  "displayName": "RGD5 Grenade",
+  "internalName": "grn_rgd5",
+  "grenadeType": "frag",
+  "fuseTime": 3,
+  "damageWorld": false,
+  "explosionPower": 6,
+  "throwStrength": 1.0,
+  "throwerVulnerable": true
+}

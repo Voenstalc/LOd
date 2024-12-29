@@ -1,0 +1,16 @@
+{
+  "displayName": "PO4x34",
+  "internalName": "atm_po4x34",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "atm_po4x34",
+      "displayName": "PO4x34 Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "4x",
+    "customOverlayTexture": "ovr_po4x34",
+    "modeType": "pip"
+  }
+}

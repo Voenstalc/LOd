@@ -1,0 +1,64 @@
+{
+    "internalName": "wpn_m590a1",
+    "displayName": "M590A1",
+    "weaponType": "shotgun",
+    "customFlashTexture": "atm_flash",
+    "gunDamage": 4,
+    "roundsPerMin": 100,
+    "allowEmptyMagazines": true,
+    "recoilPitch": 10,
+    "recoilYaw": 2.5,
+    "randomRecoilPitch": 0.0,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 4,
+    "numBullets": 6,
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1,
+    "allowSprintFiring": true,
+    "fireModes": [
+        "semi"
+    ],
+    "acceptedBullets": [
+        "bul_12x70",
+        "bul_12x76"
+    ],
+    "internalAmmoStorage": 6,
+    "reloadTime": 60,
+    "dropBulletCasing": true,
+    "shellEjectOffsetNormal": {
+        "x": -1,
+        "y": 0,
+        "z": 1
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "m590a1_shoot",
+                "soundNameDistant": "m590a1_shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponBulletLoad": [
+            {
+                "soundEvent": "weaponBulletLoad",
+                "soundName": "m590a1_reload"
+            }
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "wpn_m590a1",
+            "skinAsset": "wpn_m590a1",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ]
+}

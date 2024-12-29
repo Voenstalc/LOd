@@ -1,0 +1,10 @@
+{
+  "displayName": "F1 Grenade",
+  "internalName": "grn_f1",
+  "grenadeType": "frag",
+  "fuseTime": 4,
+  "damageWorld": false,
+  "explosionPower": 8,
+  "throwStrength": 1.0,
+  "throwerVulnerable": true
+}

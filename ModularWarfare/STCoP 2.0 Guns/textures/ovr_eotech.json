@@ -1,0 +1,8 @@
+{
+  "internalName": "ovr_eotech",
+  "textureType": "overlay",
+  "imageLocation":
+  [
+    "ovr_eotech.png"
+  ]
+}
